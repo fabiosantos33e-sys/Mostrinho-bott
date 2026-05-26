@@ -1,0 +1,17 @@
+{
+  "jogadores": {
+    "1053803800340746261": {
+      "nome": "sr_paz",
+      "nivel": 8,
+      "xp": 470,
+      "vida": 1009,
+      "vidaMax": 1060,
+      "ataque": 235,
+      "defesa": 109,
+      "moedas": 6200,
+      "classe": "Rank E",
+      "inventario": [],
+      "cacadas": 6
+    }
+  }
+}

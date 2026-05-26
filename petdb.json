@@ -1,0 +1,22 @@
+{
+  "xp": 20,
+  "nivel": 2,
+  "felicidade": 100,
+  "fome": 10,
+  "frases": [
+    "Mostrinho aprender eu amo meu papai"
+  ],
+  "usuarios": {
+    "1053803800340746261": {
+      "nome": "sr_paz",
+      "amizade": 23,
+      "mensagens": 26,
+      "broncas": 0,
+      "apelido": "Pet apelido papai"
+    }
+  },
+  "humor": "feliz",
+  "energia": 12,
+  "emocao": "cansado",
+  "dormindo": true
+}
